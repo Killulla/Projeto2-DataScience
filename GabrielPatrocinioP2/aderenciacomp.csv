@@ -1,0 +1,4 @@
+;Erro Quadratico;Erro Quadratico Medio;Soma de Diferencas;Erro quadratico nas CDFs;Diferencas Absolutas;Kolmogorov-Smirnov
+Distribuicao Gamma;8400820449;231077;11664095;168;2099;0,131
+Distribuicao Log Normal;6315968607;173730;7348905;54;1191;0,085
+Diferenca entre Gamma e Log Normal;2084851842;57347;4315190;114;908;0,046
